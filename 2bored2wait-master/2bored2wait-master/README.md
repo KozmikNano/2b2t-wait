@@ -1,15 +1,12 @@
-# 2bored2wait
-A proxy to wait out 2b2t.org's way too long queue.
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/themoonisacheese?locale.x=fr_FR)
-
 # How to install
-1. Download and install node.js version 14 or above and git. You need git even if you download the repository as zip because it is to install the dependencies via npm. On non-windows platforms, you also need npm.
-2. Download this repository with the green button (top right of this page). If you downloaded it as zip, unzip it.
-3. Open a terminal and navigate to the folder you downloaded it in.
-4. Run `npm install`
-5. Copy config.json.example and name it config.json. Replace DISCORDBOT_FLAG and WEBSERVER_FLAG with true or false to your liking, then replace MINECRAFT_PROXY_PORT and WEB_UI_PORT with valid ports. Edit other values to your preference.
-6. For trust reasons, this tool does not update automatically. Check back here once in a while to see if there are any updates.
+1. Download and install node.js version 14 or above and git.
+-Link to node.js https://nodejs.org/en/
+-Link to git https://git-scm.com/downloads
+2. Download This repo by clicking the green button and click save as zip.
+2. Open Command prompt with admin rights
+5. Navigate to the downloaded folder
+6. Copy config.json.example and name it config.json. Replace DISCORDBOT_FLAG and WEBSERVER_FLAG with true or false to your liking, then replace MINECRAFT_PROXY_PORT and WEB_UI_PORT with valid ports. Edit other values to your preference.
+7. For trust reasons, this tool does not update automatically. Check back here once in a while to see if there are any updates.
 
 # How to use
 1. Read the code to ensure I'm not stealing your credentials. I'm not, but you shouldn't take my word for it. If you don't know how to read it, downloading stuff off the internet and giving it your password is probably a bad idea anyway.
