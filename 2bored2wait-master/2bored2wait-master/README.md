@@ -14,5 +14,9 @@
 4. Open Command prompt with admin rights
 5. Navigate to the downloaded folder
 6. Type or copy and paste
-
 `npm install`
+7. To use this tool you need to set up a discord bot (It is free and you make it yourself) Link to guide.
+
+https://discordpy.readthedocs.io/en/latest/discord.html
+
+
