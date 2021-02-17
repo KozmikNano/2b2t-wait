@@ -13,4 +13,5 @@
 
 4. Open Command prompt with admin rights
 5. Navigate to the downloaded folder
-6. 
+6. Type or copy and paste
+7. 'npm install'
