@@ -24,15 +24,18 @@ https://discordpy.readthedocs.io/en/latest/discord.html
 2. run `npm start`
 3. Answer all of the questions and put the discord bot token in when asked.
 4. At the end say yes so that you dont have to type all of your info in every time.
+5. Run you command (look bellow)
+7. When the queue is 5-20 join the minecraft server at the server ip of 127.0.0.0
+8. Enjoy!
 
 #Commands
 You can type the following into your discord bot server or in the computer window
 
-`start` Starts the server
+`start` Starts the queue
 
 `start 14:00` Starts the queue at 2:00 PM
 
-`play 8:00` Has 2b2t ready to play at 8:00 AM
+`play 8:00` Has 2b2t ready to play at 8:00 AM  (Should start this the day befor!)
 
 `stop` Stops the queue
 
