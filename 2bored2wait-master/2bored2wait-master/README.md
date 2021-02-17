@@ -29,7 +29,11 @@ https://discordpy.readthedocs.io/en/latest/discord.html
 You can type the following into your discord bot server or in the computer window
 
 `start` Starts the server
+
 `start 14:00` Starts the queue at 2:00 PM
+
 `play 8:00` Has 2b2t ready to play at 8:00 AM
+
 `stop` Stops the queue
+
 `update` Lets you know your queue position
