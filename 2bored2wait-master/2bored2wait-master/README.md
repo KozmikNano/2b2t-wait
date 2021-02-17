@@ -8,6 +8,7 @@
 
 
 2. Download This repo by clicking the green code button and click save as zip.
+
 -You can also click this link https://github.com/KozmikNano/2b2t-wait/archive/main.zip
 
 4. Open Command prompt with admin rights
