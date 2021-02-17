@@ -18,6 +18,7 @@
 7. To use this tool you need to set up a discord bot (It is free and you make it yourself) Link to guide.
 
 https://discordpy.readthedocs.io/en/latest/discord.html
+
 8. After the bot is on the server and you have the bot token continue the steps.
 #Using this tool
 1. First open Command prompt and navigate to the downloaded folder.
